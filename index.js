@@ -1,5 +1,5 @@
 "use strict";
-// No license here
+// No license here. Link: https://github.com/AJS-development/SimpleStringBuilder/blob/master/index.js
 module.exports = class StringBuilder {
 constructor(string) {
 this.t = [];

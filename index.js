@@ -1,5 +1,5 @@
 "use strict";
-
+// No license here
 module.exports = class StringBuilder {
 constructor(string) {
 this.t = [];
